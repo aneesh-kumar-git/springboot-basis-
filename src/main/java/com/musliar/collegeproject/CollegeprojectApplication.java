@@ -8,6 +8,6 @@ public class CollegeprojectApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(CollegeprojectApplication.class, args);
 		System.out.println("Hello");
-		System.out.println("Hello...");
+		System.out.println("Hello....");
 	}
 }
