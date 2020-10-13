@@ -9,5 +9,6 @@ public class CollegeprojectApplication {
 		SpringApplication.run(CollegeprojectApplication.class, args);
 		System.out.println("Hello");
 		System.out.println("Hello....");
+		System.out.println("Hello Test...");
 	}
 }
